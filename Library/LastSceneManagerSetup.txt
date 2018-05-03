@@ -1,4 +1,13 @@
 sceneSetups:
 - path: Assets/Scenes/Menu 3D.unity
   isLoaded: 1
+  isActive: 0
+- path: Assets/Catch the objects.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Flappy Bird Style/_Scenes/Main.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Flappy Bird Style/_Scenes/SettingsMenu.unity
+  isLoaded: 1
   isActive: 1
